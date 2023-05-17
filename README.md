@@ -17,13 +17,13 @@ npm start
 
 Open your browser in http://localhost:3000/
 
-# Functions
+## Functions
 This is a small, symbolic project for a possible data security practice.
 - Login
 - Register
 - Logout
 - Welcome page
 
-# Licensing
+## Licensing
 
 Feel free to use it, but don't forget to mention the source. :)
