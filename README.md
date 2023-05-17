@@ -5,9 +5,9 @@ Secure login interface based on ReactJS and PHP API, designed with Material-UI. 
 PHP counts requests from an IP address that come from the ReactJS frontend. It records these requests in the MySQL database, and then, if too many are received (100/hour), it refuses PHP data processing. This prevents server overload.
 
 ## Install
-Backend: Copy the contents of the folder to the public folder of Apache2 (or another web server).
-Database: Run the SQL code in the sql_dump file & create your database with it.
-Frontend: 
+- Backend: Copy the contents of the folder to the public folder of Apache2 (or another web server).
+- Database: Run the SQL code in the sql_dump file & create your database with it.
+- Frontend: 
 ```
 cd frontend
 npm install
